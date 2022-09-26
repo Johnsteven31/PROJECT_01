@@ -1,7 +1,10 @@
-h1{ 
-    color: lightcoral;
+.Quote_Image{
+    width:auto;
+    height: 300px;
 }
-p{
-    color: lightslategray;
+.Index-Text{
+    background-color:rgb(75, 75, 75);
+    position: fixed;
+    text-align: center;
+    top: 22%;
 }
-p

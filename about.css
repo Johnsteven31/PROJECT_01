@@ -1,0 +1,45 @@
+.About-Text{
+  top: 50%;  
+}
+main h3 {
+    text-align: left;
+}
+main h4 {
+    text-decoration: underline;
+}
+.Film-Text h2 {
+    text-decoration: overline;
+    font-size: 50px;
+    font-family: 'Special Elite', cursive;
+}
+.Film-IMG{
+    width: auto;
+    height: 250px;
+    display: block;
+    margin: 0px auto;
+}
+.Film-Text{
+    font-size: 30px;
+}
+.Soccer-Text h2{
+    text-decoration: overline;
+    font-size: 50px;
+    font-family: 'Special Elite', cursive;
+}
+.Soccer-IMG{
+        width: auto;
+        height: 250px;
+        display: block;
+        margin: 0px auto;
+}
+.Remodel-Text h2{
+    text-decoration: overline;
+    font-size: 50px;
+    font-family: 'Special Elite', cursive;
+}
+.Remodel-IMG{
+        width: auto;
+        height: 250px;
+        display: block;
+        margin: 0px auto;
+}

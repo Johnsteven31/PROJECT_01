@@ -1,0 +1,54 @@
+html,body{
+    background-color:rgb(75, 75, 75);
+    width: auto;
+    height: 100%;
+}
+header,footer{
+    background-color:white;
+}
+header{
+    color:rgb(75, 75, 75);
+    font-size: 45px;
+    font-family: 'Special Elite', cursive;
+    padding: .5em .5em;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    overflow: auto;
+}
+nav{
+    text-align: right;
+    color: grey;
+    font-size: 25px;
+}
+main{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Cabin', sans-serif;
+    width: 90w;
+    margin: auto;
+    padding: 30px 20px;
+}
+.links{
+    text-align: center;
+    color: black; 
+}
+.links .Menu{
+    color: black;
+    text-align: center;
+}
+.Footer{
+    width: 100%;
+    height: 45px;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
+.Footer .Media-Link{
+    text-align: center;
+    height: 32px;
+} 

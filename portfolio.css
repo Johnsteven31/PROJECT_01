@@ -1,0 +1,20 @@
+.First-Project h3{
+    text-align: left;
+}
+
+
+.First-Project h2{
+    text-decoration: overline;
+    font-size: 50px;
+    font-family: 'Special Elite', cursive;
+}
+.Shank-IMG{
+    width: auto;
+    height: 400px;
+    display: block;
+    margin: 0px auto;
+}
+.First-Project{
+    text-align: center;
+    font-size: 30px;
+}
